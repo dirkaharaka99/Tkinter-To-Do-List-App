@@ -1,2 +1,2 @@
 # Tkinter-To-Do-List-App
-Source: YT codemy.con
+Source: YT codemy.com
